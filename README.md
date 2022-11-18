@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Android, java, xml, firebase**
+- 💬 Ask me about **ANDROID, JAVA, XML**
 
 - 📫 How to reach me **housseinalialdroubi@gmail.com**
 
