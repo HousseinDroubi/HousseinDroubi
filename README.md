@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **housseinalialdroubi@gmail.com**
 
-- ⚡ Fun fact **HTML is a programming language**
+- ⚡ Fun fact **HTML isn't a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
